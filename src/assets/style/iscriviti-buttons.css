@@ -1,0 +1,21 @@
+#imgCard1{
+    background-image: url("../img/pexels-paul-loh-233698.jpg");
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 60px 120px;
+  border: none;
+  cursor: pointer;
+}
+
+#imgCard2{
+    background-image: url("../img/pexels-ruslan-burlaka-140945.jpg");
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 60px 120px;
+  border: none;
+  cursor: pointer;
+}
