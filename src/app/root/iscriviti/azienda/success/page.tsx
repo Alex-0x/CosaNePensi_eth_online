@@ -2,6 +2,7 @@
 import SuccessPage from "../../../../../components/db/SuccessPage";
 import NavHome from "../../../../../components/navHome";
 import "../../../../../assets/style/navbar.css";
+import SismoConnection from "../../../../../components/sismo/ConnectSismo";
 
 export function IscrivitiAzienda() {
 	return (
@@ -9,6 +10,8 @@ export function IscrivitiAzienda() {
 			<NavHome />
 
 			<SuccessPage />
+
+			<SismoConnection />
 		</>
 	);
 }
