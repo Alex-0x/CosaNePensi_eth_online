@@ -19,3 +19,12 @@
   border: none;
   cursor: pointer;
 }
+
+.card-title{
+    color: gray;
+}
+
+#btn{
+    display: inline-block;
+    margin-right: 20px;
+}
